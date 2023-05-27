@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dean</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+
+</resources>

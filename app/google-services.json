@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695539731367",
+    "firebase_url": "https://dean-83c0d-default-rtdb.firebaseio.com",
+    "project_id": "dean-83c0d",
+    "storage_bucket": "dean-83c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695539731367:android:5e9b1e38fa29a36a048482",
+        "android_client_info": {
+          "package_name": "com.example.dean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695539731367-2evk17j90i053kb2vm5pu80hpb43b0pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqbA9LxWlTaqiyPgn6Qdv9oTYjh0PN00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695539731367-2evk17j90i053kb2vm5pu80hpb43b0pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
